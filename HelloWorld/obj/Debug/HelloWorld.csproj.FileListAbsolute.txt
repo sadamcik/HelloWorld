@@ -1,0 +1,7 @@
+F:\Projekty\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+F:\Projekty\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+F:\Projekty\HelloWorld\HelloWorld\bin\Debug\log4net.dll
+F:\Projekty\HelloWorld\HelloWorld\bin\Debug\log4net.xml
+F:\Projekty\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+F:\Projekty\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+F:\Projekty\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
